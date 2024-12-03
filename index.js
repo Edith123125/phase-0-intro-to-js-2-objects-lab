@@ -1,7 +1,7 @@
 // Write your solution in this file!
 //  Employee object
 const employee = {
-    name: "JEddie Kobia",
+    name: "Eddie Kobia",
     streetAddress: "125 Main St"
 };
 
